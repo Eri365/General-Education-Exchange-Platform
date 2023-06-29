@@ -1,0 +1,6 @@
+{
+    "url": "https://onepiece.nchu.edu.tw/cofsys/plsql/crseqry_gene",
+    "year_xpath": "/html/body/p[1]/table[2]/tbody/tr[2]/td/table/tbody/tr[2]/td[2]/table[1]/tbody/tr[1]/td[1]/span/select",
+    "subject_xpath": "/html/body/p[1]/table[2]/tbody/tr[2]/td/table/tbody/tr[2]/td[2]/table[1]/tbody/tr[1]/td[2]/span/select",
+    "submit_xpath": "/html/body/p[1]/table[2]/tbody/tr[2]/td/table/tbody/tr[2]/td[2]/table[2]/tbody/tr/td/input"
+}
