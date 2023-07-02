@@ -6,12 +6,10 @@ from selenium.webdriver.remote.webelement import WebElement
 from frozendict import frozendict
 # 確保程式結束時，類別的 driver 會自動 quit
 import atexit
-# 寫檔案
+# 寫檔
 import os, csv
 # 其他
 import json
-# Course
-from course import Course
 
 try:
     with open('path.json', mode = 'r') as file:
@@ -48,13 +46,8 @@ class Crawler:
         buttons = self.driver.find_elements('xpath', path['submit_xpath'])
         for button in buttons:
             button.click()
-        # 確保成功找到資料，否則 return None
-        try:
-            table = self.driver.find_element('xpath', path['table_xpath'])
-        except:
-            print('----ERROR:', __file__, '找不到表格')
-            return None
-        return table
+        # 回傳表格(Type: WebElement)
+        return self.driver.find_element('xpath', path['table_xpath'])
     
     @staticmethod
     def pack_table_list(table: WebElement):
@@ -77,6 +70,7 @@ class Crawler:
         current_folder = os.getcwd()
         subfolder_path = os.path.join(current_folder, 'CourseData')
         csv_filepath = os.path.join(subfolder_path, year + '_' + subject + '.csv')
+        # 遇到特殊字體時會跳出 Error，這邊都先直接忽略
         with open(csv_filepath, 'w', newline = '', errors = 'ignore') as file:
             writer = csv.writer(file)
             writer.writerow(header)  # 寫入標題列
