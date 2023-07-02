@@ -45,12 +45,12 @@ class Crawler:
     
     def query(self, year_value: str, subject_value: str) -> WebElement:
         print(f'正在加載 {year_value} 學年期、{subjects[subject_value]}')
-        # 選擇 學年期
+        # 選擇「學年期」
         Select(self.driver.find_element('xpath', path['year_xpath'])).select_by_value(year_value)
-        # 選擇 通識分類
+        # 選擇「通識分類」
         Select(self.driver.find_element('xpath', path['subject_xpath'])).select_by_value(subject_value)
-        # 找到 開始查詢 按鈕
-        # 學校網頁中的 查詢按鈕 可能有多個不同的 xpath，因此改用 find_elements
+        # 找到「開始查詢」按鈕
+        # 學校網頁中的「查詢按鈕」可能有多個不同的 xpath，因此改用 find_elements
         # 並將每個按鈕都實際按一次 (反正不影響結果)
         buttons = self.driver.find_elements('xpath', path['submit_xpath'])
         for button in buttons:
