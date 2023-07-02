@@ -6,9 +6,12 @@ from selenium.webdriver.remote.webelement import WebElement
 from frozendict import frozendict
 # 確保程式結束時，類別的 driver 會自動 quit
 import atexit
+# 寫檔案
+import os, csv
 # 其他
-import time, json, csv
-
+import json
+# Course
+from course import Course
 
 try:
     with open('path.json', mode = 'r') as file:
@@ -16,6 +19,9 @@ try:
 except:
     print('----ERROR:', __file__, 'json 加載失敗')
 
+# 所有的學年、期
+years = ('1111', '1112')
+# 所有的通識分類
 subjects = frozendict(
             {'E': '人文領域', 'F': '社會領域', 'G': '自然領域', 'K': '統合領域',
              'M': '核心素養', 'L': '通識資訊素養', '3': '大學國文',
@@ -47,16 +53,40 @@ class Crawler:
             table = self.driver.find_element('xpath', path['table_xpath'])
         except:
             print('----ERROR:', __file__, '找不到表格')
-            return
-        
-        for row in table.find_elements('xpath', './/tr'):
-            for cell in row.find_elements('xpath', './/td'):
-                print(cell.text, end = '  ')
+            return None
+        return table
+    
+    @staticmethod
+    def pack_table_list(table: WebElement):
+        header = []
+        for thead in table.find_elements('tag name', 'thead'):
+            for row in thead.find_elements('tag name', 'tr'):
+                for cell in row.find_elements('tag name', 'th'):
+                    header.append(cell.text.replace('\n', ' '))
+        body = []
+        for tbody in table.find_elements('tag name', 'tbody'):
+            for row in tbody.find_elements('tag name', 'tr'):
+                data_list = []
+                for cell in row.find_elements('tag name', 'td'):
+                    data_list.append(cell.text.replace('\n', ' '))
+                body.append(data_list)
+        return header, body
+    
+    @staticmethod
+    def write_to_csv(header: list, body: list, year: str, subject: str):
+        current_folder = os.getcwd()
+        subfolder_path = os.path.join(current_folder, 'CourseData')
+        csv_filepath = os.path.join(subfolder_path, year + '_' + subject + '.csv')
+        with open(csv_filepath, 'w', newline = '', errors = 'ignore') as file:
+            writer = csv.writer(file)
+            writer.writerow(header)  # 寫入標題列
+            writer.writerows(body)  # 寫入資料列
 
 if __name__ == '__main__':
     crawler = Crawler()
-    crawler.query('1111', 'E')
+    for year_value in years:
+        for subject_value, _ in subjects.items():
+            table = crawler.query(year_value, subject_value)
+            header, body = crawler.pack_table_list(table)
+            crawler.write_to_csv(header, body, year_value, subject_value)
     print('-' * 10, '程式結束', '-' * 10)
-    
-    
-# //*[@id="myTable01"]/tbody
