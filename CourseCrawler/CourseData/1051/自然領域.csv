@@ -1,0 +1,49 @@
+領域,學群,選課號碼(註1),科目名稱,學分,上課 時間,上課 週別,上課 教室,授課 教師,開課 單位,開課 人數,選課 人數,可選 餘額,授課 語言,備註
+自然,生命科學,0501,園藝與生活 Horticulture and Living,2,189,,H300,林慧玲等,通識中心,70,75,0,中文,
+自然,生命科學,0502,森林生態 Forest Ecology,2,378,,V000,廖天賜等,通識中心,70,73,0,中文,
+自然,生命科學,0503,昆蟲世界 Insect World,2,134,,EC7D09,段淑人,通識中心,70,72,0,中文,
+自然,生命科學,0504,漫談預防醫學 A Brief Introduction to Preventive Medicine,2,167,,Y410,張天傑,通識中心,50,58,0,中文,
+自然,生命科學,0505,漫談預防醫學 A Brief Introduction to Preventive Medicine,2,234,,Y204,趙黛瑜等,通識中心,70,75,0,中文,
+自然,生命科學,0506,微生物世界 Microbial World,2,456,,R10B05,曾國欽等,通識中心,100,96,4,中文,
+自然,生命科學,0507,動物生物科技與生活 Animal Biotechnology and Life,2,234,,I407,譚發瑞等,通識中心,120,121,0,中文,
+自然,生命科學,0508,植物生態與多樣性 Plant Ecology and Biodiversity,2,334,,IA640,趙國容,通識中心,50,33,17,英文,英語授課
+自然,生命科學,0509,樹木身體語言與照護 Tree Body Language and Care,2,323,,H105,劉東啟等,通識中心,60,56,4,中文,
+自然,生命科學,0510,農業科技與生活 Agricultural Biotechnology and Human Life,2,378,,Y403,林益昇,通識中心,60,73,0,中文,
+自然,生命科學,0511,生命科學與人生 Life Science and Human Life,2,456,,Z107,劉英明等,通識中心,75,74,1,中文,
+自然,生命科學,0512,生命的動力與延續 The Vitality and Sustainability of Life,2,134,,SC112,楊秋英等,通識中心,130,143,0,中文,
+自然,生命科學,0513,生命的動力與延續 The Vitality and Sustainability of Life,2,534,,SC112,楊秋英等,通識中心,130,143,0,中文,
+自然,生命科學,0514,生物醫學新知與應用 New Technologies and Applications of Biomedical Sciences,2,456,,Y112,莊秀美等,通識中心,120,132,0,中文,
+自然,生命科學,0515,臺灣重要之病毒性傳染病 Important Viral Infectious Diseases in Taiwan,2,456,,Y104,邱賢松,通識中心,100,117,0,中文,
+自然,環境科學,0521,永續農學 Sustainable Agriculture,2,156,,IA531,申雍等,通識中心,50,35,15,中文,
+自然,環境科學,0522,永續農學 Sustainable Agriculture,2,456,,IA531,申雍等,通識中心,50,14,36,中文,
+自然,環境科學,0523,環境與能源 Environment and Energy,3,5678,,P103,盧昭暉,通識中心,50,29,21,中文,本課程建議理工學院學生選修
+自然,環境科學,0524,校園自然環境導覽 Guided Tour on Campus Environment,2,278,,Z401,劉思謙,通識中心,20,25,0,中文,
+自然,環境科學,0525,世界糧食問題 World Food Problems,2,534,,IA531,高木知芙美,通識中心,50,48,2,英文,英語授課
+自然,環境科學,0526,環境生態變遷與永續發展 Change and Sustainable Development in Environment and Ecology,2,589,,Y401,陳涵,通識中心,70,59,11,中文,
+自然,環境科學,0528,防災概論 Introduction to Disaster Mitigation,3,5678,,C205,楊明德,通識中心,50,57,0,中文,
+自然,環境科學,0529,地學通論 Introduction to Physical Geography,3,1789,,J104,彭宗仁,通識中心,35,46,0,中文,建議非森林系、土環系學生選修
+自然,環境科學,0530,氣候變遷影響及其因應策略 The Effects of Climate Change and the Analysis of Possible Adaptation Strategies,2,434,,Y207,蘇義淵,通識中心,60,61,0,英文,英語授課
+自然,物質科學,0535,化學與人文 Chemistry for Liberal Arts,2,134,,T408A,陸維作,通識中心,70,66,4,中文,
+自然,物質科學,0536,"化學、醫藥與社會 Chemistry, Medicine and Society",2,434,,Y204,林彥佑,通識中心,70,74,0,中文,
+自然,物質科學,0537,現代生活中的科技與物理 Technologies and Physics in Modern Life,2,178,,S104,何孟書等,通識中心,70,72,0,中文,
+自然,物質科學,0538,物理世界的奧秘 The Mystery of Physics,2,334,,S104,張志軍,通識中心,80,79,1,中文,
+自然,物質科學,0539,實用生活化學 Practical Aspects of Chemistry,2,334,,Y411,林寬鋸,通識中心,70,69,1,中文,修過全年班普通化學的同學建議勿修習此課程
+自然,物質科學,0540,實用生活化學 Practical Aspects of Chemistry,2,512,,Y112,羅順原,通識中心,120,119,1,中文,
+自然,數學統計,0546,機率及其電腦實作 Probability and Its Computer Practice,2,434,,S106,余明興,通識中心,50,37,13,中文,
+自然,數學統計,0547,數學世界的奧秘 The Mystery of Mathematics,2,134,,Y204,蔡亞倫,通識中心,50,56,0,英文,英語授課
+自然,數學統計,0548,力學與數學的歷史發展 The Historical Evolution of Mechanics and Mathematics,2,356,,Y208,鄧君豪等,通識中心,70,78,0,中文,
+自然,數學統計,0549,統計與生活 Statistics and Life,2,156,,Y305,黃文瀚,通識中心,50,52,0,中文,
+自然,工程科技,0555,化工科技 Chemical Engineering Technology,2,178,,CE206,李思禹,通識中心,60,60,0,中文,
+自然,工程科技,0556,生物產業工程 Bioindustry Engineering,2,256,,Y301,黃國益,通識中心,50,62,0,中文,
+自然,工程科技,0557,以科學方法解決生活問題 Using Scientific Methods to Solve Daily Life Problems,2,156,,S210,紀凱容,通識中心,31,24,7,中文,學生需自行設定生活問題
+自然,工程科技,0558,以科學方法解決生活問題 Using Scientific Methods to Solve Daily Life Problems,2,134,,Y302,鄭政,通識中心,31,22,9,中文,學生需自行設定生活問題
+自然,工程科技,0559,土木工程概論 Introduction to Civil Engineering,2,178,,C205,高書屏,通識中心,130,123,7,中文,
+自然,工程科技,0560,奈米科技 Introduction of Nanotech,2,234,,S1A03,裴靜偉,通識中心,100,107,0,中文,
+自然,工程科技,0561,生醫工程概論 Introduction to Biomedical Engineering,3,4678,,Y401,王惠民,通識中心,60,49,11,中文,
+自然,工程科技,0562,中國古代科學 Chinese Ancient Science,2,156,,L216,王東安,通識中心,50,41,9,中文,
+自然,環境科學,0593,惠蓀林場生態與環境 Ecology and Environment in Hui-Sun Experimental Forest,1,*,,*,解昆樺,通識中心,59,59,0,中文,第一梯次：105/5/29-5/31(3天2夜)
+自然,環境科學,0594,惠蓀林場生態與環境 Ecology and Environment in Hui-Sun Experimental Forest,1,*,,*,解昆樺,通識中心,59,55,4,中文,第二梯次：105/6/2-6/4 (3天2夜)
+自然,環境科學,0595,惠蓀林場生態與環境 Ecology and Environment in Hui-Sun Experimental Forest,1,*,,*,解昆樺,通識中心,67,67,0,中文,第三梯次：105/8/28-8/30(3天2夜)
+自然,環境科學,0596,惠蓀林場生態與環境 Ecology and Environment in Hui-Sun Experimental Forest,1,*,,*,解昆樺,通識中心,64,64,0,中文,第四梯次：105/9/1-9/3 (3天2夜)
+自然,環境科學,0171,環境生態變遷與永續發展 Change and Sustainable Development in Environment and Ecology,2,5AB,,Y303,陳涵,夜不限系別,70,78,0,中文,
+自然,生命科學,0172,農業科技與生活 Agricultural Biotechnology and Human Life,2,2AB,,Y207,林益昇,夜不限系別,50,52,0,中文,

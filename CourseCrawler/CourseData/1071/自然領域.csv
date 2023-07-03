@@ -1,0 +1,65 @@
+領域,學群,選課號碼(註1),科目名稱,學分,上課 時間,上課 週別,上課 教室,授課 教師,開課 單位,開課 人數,選課 人數,可選 餘額,授課 語言,備註
+自然,生命科學,0501,園藝與生活 Horticulture and Living,2,189,,H300,林慧玲等,通識中心,70,68,2,中文,
+自然,生命科學,0502,森林生態 Forest Ecology,2,378,,V000,廖天賜等,通識中心,70,79,0,中文,
+自然,生命科學,0503,昆蟲世界 Insect World,2,134,,EC7D09,段淑人,通識中心,70,66,4,中文,
+自然,生命科學,0504,微生物世界 Microbial World,2,456,,R10B05,鍾文鑫等,通識中心,100,113,0,中文,
+自然,生命科學,0505,動物生物科技與生活 Animal Biotechnology and Life,2,234,,I407,陳彥伯等,通識中心,135,123,12,中文,
+自然,生命科學,0506,植物生態與多樣性 Plant Ecology and Biodiversity,2,334,,IA531,趙國容,通識中心,50,44,6,英文,英語授課
+自然,生命科學,0507,樹木身體語言與照護 Tree Body Language and Care,2,312,,H101,劉東啟等,通識中心,41,40,1,中文,
+自然,生命科學,0510,生態旅遊 Ecotourism,2,434,,AN514,謝淳仁,通識中心,35,32,3,中文,本課程需配合校外教學，請同學考量課程時間
+自然,生命科學,0511,生命的動力與延續 The Vitality and Sustainability of Life,2,134,,SC112,賴建成等,通識中心,150,147,3,中文,本課程不開放特殊情形權限加選
+自然,生命科學,0512,生命的動力與延續 The Vitality and Sustainability of Life,2,534,,SC112,賴建成等,通識中心,150,143,7,中文,本課程不開放特殊情形權限加選
+自然,生命科學,0513,生物醫學新知與應用 New Technologies and Applications of Biomedical Sciences,2,256,,Y304,王惠民,通識中心,60,59,1,中文,
+自然,生命科學,0514,生物醫學新知與應用 New Technologies and Applications of Biomedical Sciences,2,456,,Y112,闕斌如等,通識中心,120,119,1,中文,
+自然,生命科學,0515,臺灣重要之病毒性傳染病 Important Viral Infectious Diseases in Taiwan,2,434,,Y104,邱賢松,通識中心,100,117,0,中文,
+自然,生命科學,0516,生命科學與人生 Life Science and Human Life,2,456,,Z107,劉英明等,通識中心,100,109,0,中文,本課程不開放特殊情形權限加選
+自然,生命科學,0517,生命科學與人生 Life Science and Human Life,2,167,,Y303,張健忠,通識中心,60,60,0,中文,
+自然,環境科學,0520,防災概論 Introduction to Disaster Mitigation,2,478,,Y301,王鴻勳,通識中心,50,61,0,中文,
+自然,環境科學,0524,校園自然環境導覽 Guided Tour on Campus Environment,2,267,,Z109,劉思謙,通識中心,20,23,0,中文,
+自然,環境科學,0525,世界糧食問題 World Food Problems,2,534,,IA531,高木知芙美,通識中心,50,44,6,英文,英語授課
+自然,環境科學,0526,環境生態變遷與永續發展 Change and Sustainable Development in Environment and Ecology,2,578,,Y301,王鴻勳,通識中心,50,54,0,中文,
+自然,環境科學,0527,生態學 Ecology,2,189,,Y204,于迺文,通識中心,55,58,0,中文,
+自然,環境科學,0528,地學通論 Introduction to Physical Geography,3,1789,,J104,彭宗仁,通識中心,31,42,0,中文,建議非森林系、土環系學生選修
+自然,物質科學,0533,"化學、醫藥與社會 Chemistry, Medicine and Society",2,434,,Y301,賴千蕙,通識中心,60,62,0,中文,
+自然,物質科學,0534,生物化學與人生 Biochemistry and Life,2,356,,Y112,莊敦堯,通識中心,120,118,2,中文,
+自然,物質科學,0535,現代生活中的科技與物理 Technologies and Physics in Modern Life,2,178,,S104,何孟書等,通識中心,70,74,0,中文,
+自然,物質科學,0536,影響物理學發展的大事紀 The Influential Big Events in Physics,2,278,,S104,張明強,通識中心,90,89,1,中文,
+自然,物質科學,0537,物理世界的奧秘 The Mystery of Physics,2,334,,S104,張志軍等,通識中心,80,80,0,中文,建議非理工學院學生選修
+自然,物質科學,0538,實用生活化學 Practical Aspects of Chemistry,2,434,,Y304,林寬鋸,通識中心,70,68,2,中文,修過全年班普通化學的同學建議勿修習此課程
+自然,物質科學,0539,實用生活化學 Practical Aspects of Chemistry,2,156,,SC111,羅順原,通識中心,120,128,0,中文,
+自然,數學統計,0543,生物統計與生活 Biostatistics and Life,2,234,,Y203,郭寶錚,通識中心,65,59,6,中文,
+自然,數學統計,0544,數學世界的奧秘 The Mystery of Mathematics,2,278,,Y202,李渭天等,通識中心,50,45,5,中文,
+自然,數學統計,0545,力學與數學的歷史發展 The Historical Evolution of Mechanics and Mathematics,2,334,,Y204,李林滄,通識中心,70,68,2,中文,
+自然,數學統計,0546,統計與生活 Statistics and Life,2,256,,Y302,林宗儀,通識中心,50,48,2,中文,
+自然,工程科技,0550,化工科技 Chemical Engineering Technology,2,178,,CE206,李思禹,通識中心,32,22,10,中文,示範實驗
+自然,工程科技,0552,中國古代科學 Chinese Ancient Science,2,234,,L216,王東安,通識中心,50,39,11,中文,
+自然,工程科技,0554,以科學方法解決生活問題 Using Scientific Methods to Solve Daily Life Problems,2,212,,Y109,鄭政,通識中心,31,20,11,中文,學生需自行設定生活問題
+自然,工程科技,0555,大自然啟發的仿生設計 Bioinspiration and Biomimicry,3,2234,,Y101,紀凱容,通識中心,31,28,3,英文,英語授課
+自然,工程科技,0556,土木工程概論 Introduction to Civil Engineering,2,178,,C205,高書屏,通識中心,140,130,10,中文,
+自然,工程科技,0557,奈米科技 Introduction of Nanotech,2,234,,ATB29,裴靜偉,通識中心,80,99,0,中文,
+自然,工程科技,0558,生醫工程概論 Introduction to Biomedical Engineering,3,1567,,Y304,王惠民,通識中心,60,61,0,中文,
+自然,工程科技,0559,中國古代科學 Chinese Ancient Science,2,434,,Y206,吳政憲,通識中心,70,69,1,中文,
+自然,環境科學,0593,惠蓀林場生態與環境 Ecology and Environment in Hui-Sun Experimental Forest,1,*,,*,李超雄,通識中心,68,62,6,中文,第一梯次：107/5/29-6/1(4天3夜)
+自然,環境科學,0594,惠蓀林場生態與環境 Ecology and Environment in Hui-Sun Experimental Forest,1,*,,*,李超雄,通識中心,74,72,2,中文,第二梯次：107/6/5-6/8(4天3夜)
+自然,環境科學,0595,惠蓀林場生態與環境 Ecology and Environment in Hui-Sun Experimental Forest,1,*,,*,李超雄,通識中心,65,64,1,中文,第三梯次：107/8/21-8/24(4天3夜)
+自然,環境科學,0596,惠蓀林場生態與環境 Ecology and Environment in Hui-Sun Experimental Forest,1,*,,*,李超雄,通識中心,64,62,2,中文,第四梯次：107/8/28-8/31(4天3夜)
+自然,工程科技,0601,資訊素養：程式設計與應用 Information Literacy: Computer Programming and Its Applications,1,256,,A205,蔡宇紘,通識中心,35,30,5,中文,上課時間：01-09週，限107學年入學新生-外文系(學號後兩碼01~30)
+自然,工程科技,0602,資訊素養：程式設計與應用 Information Literacy: Computer Programming and Its Applications,1,256,,A205,蔡宇紘,通識中心,35,33,2,中文,上課時間：10-18週，限107學年入學新生-外文系(學號後兩碼35~67)
+自然,工程科技,0603,資訊素養：程式設計與應用 Information Literacy: Computer Programming and Its Applications,1,356,,A205,蔡孟峰,通識中心,35,32,3,中文,上課時間：01-09週，限107學年入學新生-歷史系(學號後兩碼01~30)
+自然,工程科技,0604,資訊素養：程式設計與應用 Information Literacy: Computer Programming and Its Applications,1,356,,A205,蔡孟峰,通識中心,35,29,6,中文,上課時間：10-18週，限107學年入學新生-歷史系(學號後兩碼31~62)
+自然,工程科技,0605,資訊素養：程式設計與應用 Information Literacy: Computer Programming and Its Applications,1,289,,U702,蔡宇紘,通識中心,35,39,0,中文,上課時間：01-09週，限107學年入學新生-園藝系
+自然,工程科技,0606,資訊素養：程式設計與應用 Information Literacy: Computer Programming and Its Applications,1,534,,SC549,吳國光,通識中心,55,50,5,中文,上課時間：01-09週，限107學年入學新生-應經系
+自然,工程科技,0607,資訊素養：程式設計與應用 Information Literacy: Computer Programming and Its Applications,1,112,,LI412,蔡宇紘,通識中心,50,47,3,中文,上課時間：10-18週，限107學年入學新生-動科系
+自然,工程科技,0608,資訊素養：程式設計與應用 Information Literacy: Computer Programming and Its Applications,1,534,,SC549,吳國光,通識中心,55,48,7,中文,上課時間：10-18週，限107學年入學新生-土環系
+自然,工程科技,0609,資訊素養：程式設計與應用 Information Literacy: Computer Programming and Its Applications,1,112,,LI412,蔡宇紘,通識中心,55,58,0,中文,上課時間：01-09週，限107學年入學新生-水保系
+自然,工程科技,0610,資訊素養：程式設計與應用 Information Literacy: Computer Programming and Its Applications,1,5567,,S821,謝育龍,通識中心,50,47,3,中文,上課時間：01-06週，限107學年入學新生-食生系
+自然,工程科技,0611,資訊素養：程式設計與應用 Information Literacy: Computer Programming and Its Applications,1,189,,U702,珽,通識中心,30,17,13,中文,上課時間：01-09週，限107學年入學新生-景觀學程
+自然,工程科技,0612,資訊素養：程式設計與應用 Information Literacy: Computer Programming and Its Applications,1,289,,L216,陳宏賓,通識中心,50,46,4,中文,上課時間：01-09週，限107學年入學新生-生科系A班
+自然,工程科技,0613,資訊素養：程式設計與應用 Information Literacy: Computer Programming and Its Applications,1,289,,L216,陳宏賓,通識中心,50,43,7,中文,上課時間：10-18週，限107學年入學新生-生科系B班
+自然,工程科技,0614,資訊素養：程式設計與應用 Information Literacy: Computer Programming and Its Applications,1,5567,,S821,謝育龍,通識中心,45,37,8,中文,上課時間：07-12週，限107學年入學新生-獸醫系A班
+自然,工程科技,0615,資訊素養：程式設計與應用 Information Literacy: Computer Programming and Its Applications,1,5567,,S821,謝育龍,通識中心,45,36,9,中文,上課時間：13-18週，限107學年入學新生-獸醫系B班
+自然,工程科技,0616,資訊素養：程式設計與應用 Information Literacy: Computer Programming and Its Applications,1,212,,L216,李朱慧,通識中心,50,48,2,中文,上課時間：01-09週，限107學年入學新生-行銷系
+自然,工程科技,0617,資訊素養：程式設計與應用 Information Literacy: Computer Programming and Its Applications,1,312,,U701,蔡宇紘,通識中心,40,39,1,中文,上課時間：01-09週，限107學年入學新生-會計系
+自然,生命科學,0103,生物醫學新知與應用 New Technologies and Applications of Biomedical Sciences,2,2BC,,Y307,闕斌如等,夜不限系別,60,62,0,中文,陳健尉老師，莊秀美老師，謝政哲老師，許美鈴老師，林宜玫老師合授
+自然,環境科學,0171,環境生態變遷與永續發展 Change and Sustainable Development in Environment and Ecology,2,5CD,,Y303,王鴻勳,夜不限系別,50,52,0,中文,
+自然,環境科學,0172,生態學 Ecology,2,1CD,,Y303,于迺文,夜不限系別,55,60,0,中文,

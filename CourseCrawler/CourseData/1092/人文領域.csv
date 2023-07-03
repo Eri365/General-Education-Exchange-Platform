@@ -1,0 +1,73 @@
+領域,學群,選課號碼(註1),科目名稱,學分,上課 時間,上課 週別,上課 教室,授課 教師,開課 單位,開課 人數,選課 人數,可選 餘額,授課 語言,備註
+人文,文學,0302,中國古典短篇小說選讀 Selected Reading of Classical Chinese Fictions,2,312,,Y203,蔡妙真,通識中心,50,38,12,中文,
+人文,文學,0303,閱讀臺灣 Reading Taiwan: Modern Taiwan through Literature and Film,2,156,,Y312,蔡林縉,通識中心,31,14,17,英文,英語授課
+人文,文學,0304,華語影視文學 Film and Visual Literature of Chinese Language,2,334,,Y313,趙家琦,通識中心,42,41,1,中文,
+人文,文學,0305,臺灣現當代作家與作品 Taiwanese Writers and Literary Creation,2,478,,Y303,詹閔旭,通識中心,60,56,4,中文,
+人文,文學,0306,臺灣現當代作家與作品 Taiwanese Writers and Literary Creation,2,434,,Y303,詹閔旭,通識中心,31,34,0,中文,
+人文,文學,0307,文學探索 Exploring Literature,2,378,,Y312,蔡林縉,通識中心,31,31,0,中文,
+人文,歷史,0310,近百年臺灣發展與變遷 Modern Taiwan History,2,534,,Y202,陳慧先,通識中心,50,50,0,中文,
+人文,歷史,0311,近百年臺灣發展與變遷 Modern Taiwan History,2,556,,Y202,陳慧先,通識中心,50,55,0,中文,
+人文,歷史,0312,中國歷史與民間傳說 Chinese History and Tales,2,378,,Y206,黃純怡,通識中心,50,48,2,中文,
+人文,歷史,0313,中國歷史與民間傳說 Chinese History and Tales,2,434,,Y207,黃純怡,通識中心,50,48,2,中文,
+人文,歷史,0314,現代世界的形成 The Formation of Modern World,2,412,,Y307,江彥賢,通識中心,60,51,9,中文,
+人文,歷史,0315,現代世界的形成 The Formation of Modern World,2,434,,Y307,江彥賢,通識中心,60,41,19,中文,
+人文,歷史,0316,現代商業史 A History of Modern Business,2,156,,Y403,林志龍,通識中心,60,70,0,中文,
+人文,歷史,0317,臺灣歷史導論 Introduction to History of Taiwan,2,334,,Y304,李毓嵐,通識中心,50,50,0,中文,
+人文,歷史,0318,電影中的西洋古典史 Classical History in Films,2,134,,Y104,范姜士璁,通識中心,100,96,4,中文,
+人文,歷史,0319,電影中的西洋古典史 Classical History in Films,2,356,,Y104,范姜士璁,通識中心,100,97,3,中文,
+人文,歷史,0320,中國現代史 Contemporary Chinese History,2,289,,Y308,游博清,通識中心,50,47,3,中文,
+人文,歷史,0321,西方健康文化史 Western Cultural History of Health,2,367,,Y302,陳樂元,通識中心,50,21,29,中文,
+人文,歷史,0322,西方健康文化史 Western Cultural History of Health,2,389,,Y302,陳樂元,通識中心,50,41,9,中文,
+人文,歷史,0323,臺灣歷史導論 Introduction to History of Taiwan,2,312,,Y204,賴郁君,通識中心,50,41,9,中文,
+人文,歷史,0324,"中臺灣古道、部落與人文旅遊 Ancient Trails, Tribes and Cultural Tours",1,456,,A712,朱惠足,通識中心,31,32,0,中文,上課時間:第1~9週，第7~9週外出
+人文,哲學,0326,倫理學與當代議題 Ethics and Contemporary Issues,2,212,,Y304,翟挹,通識中心,70,65,5,中文,
+人文,哲學,0327,實用邏輯學 Applied Logics,2,389,,Y212,顧毓民,通識中心,60,12,48,中文,
+人文,哲學,0328,實用邏輯學 Applied Logics,2,556,,Y212,顧毓民,通識中心,60,10,50,中文,
+人文,哲學,0329,美學 Aesthetics,2,234,,Y313,張盈馨,通識中心,60,67,0,中文,
+人文,哲學,0330,生死學 Life and Death Studies,2,212,,Y308,楊謦綺,通識中心,60,16,44,中文,
+人文,哲學,0331,生死學 Life and Death Studies,2,412,,Y308,楊謦綺,通識中心,60,27,33,中文,
+人文,哲學,0332,哲學概論 Introduction to Philosophy,2,256,,Y313,張盈馨,通識中心,60,72,0,中文,
+人文,藝術,0336,英國電視喜劇 British TV Comedy,2,278,,Y211,廖瑩芝,通識中心,48,32,16,英文,英語授課
+人文,藝術,0337,美術工作坊 Art Workshop,2,234,,Y605,鄧文貞,通識中心,40,33,7,中文,
+人文,藝術,0338,美術工作坊 Art Workshop,2,156,,Y605,蕭怡姍,通識中心,40,38,2,中文,
+人文,藝術,0339,美術工作坊 Art Workshop,2,178,,Y605,蕭怡姍,通識中心,40,36,4,中文,
+人文,藝術,0340,美術工作坊 Art Workshop,2,334,,Y605,蕭怡姍,通識中心,40,46,0,中文,
+人文,藝術,0341,藝術的故事 The Story of Art,2,278,,Y309,何智勇,通識中心,70,64,6,中文,本課程不開放特殊情形權限加選
+人文,藝術,0344,視覺藝術欣賞 Visual Art Appreciation,2,178,,Y204,楊基發,通識中心,70,22,48,中文,本課程不開放特殊情形權限加選
+人文,藝術,0345,古典音樂賞析 Classical Music Appreciation,2,156,,Y112,李美賢,通識中心,110,105,5,中文,
+人文,藝術,0346,古典音樂賞析 Classical Music Appreciation,2,178,,Y112,李美賢,通識中心,110,93,17,中文,
+人文,藝術,0347,古典音樂賞析 Classical Music Appreciation,2,512,,Y112,陳欣宜,通識中心,110,94,16,中文,本課程不開放特殊情形權限加選
+人文,藝術,0348,古典音樂賞析 Classical Music Appreciation,2,534,,Y112,陳欣宜,通識中心,110,104,6,中文,本課程不開放特殊情形權限加選
+人文,藝術,0349,古典音樂賞析 Classical Music Appreciation,2,312,,Y112,陳彥蓉,通識中心,110,111,0,中文,本課程不開放特殊情形權限加選
+人文,藝術,0350,古典音樂賞析 Classical Music Appreciation,2,334,,Y112,陳彥蓉,通識中心,110,110,0,中文,本課程不開放特殊情形權限加選
+人文,藝術,0351,電影美學 Cinematic Aesthetics,2,256,,Y309,何智勇,通識中心,70,69,1,中文,本課程不開放特殊情形權限加選
+人文,藝術,0352,創意色彩學 Creative Color Theory,1,356,,Y605,蕭怡姍,通識中心,40,42,0,中文,第1~9週上課
+人文,藝術,0353,臺灣美術導賞 Art of Taiwan,1,18,,Y104,王婉如,通識中心,40,19,21,中文,
+人文,藝術,0354,幫派電影與暴力美學 Gangster Films and Aesthetics of Violence,2,178,,A712,廖瑩芝,通識中心,36,26,10,英文,英語授課
+人文,文化,0358,世界宗教與人生價值 Religions of the World and Values of Life,2,434,,Y208,賴淑蘭,通識中心,40,17,23,中文,本課程建議學士班學生修習
+人文,文化,0359,日本文化 Japanese Culture,2,334,,Y204,賴郁君,通識中心,50,46,4,中文,
+人文,文化,0360,日本文化 Japanese Culture,2,289,,Y402,徐睿鎂,通識中心,65,57,8,中文,本課程不開放特殊情形權限加選
+人文,文化,0361,日本文化 Japanese Culture,2,434,,Y308,楊謦綺,通識中心,60,52,8,中文,
+人文,文化,0362,日本文化 Japanese Culture,2,178,,Y203,沈玉慧,通識中心,50,29,21,中文,
+人文,文化,0364,文化人類學導論 Introduction to Cultural Anthropology,2,256,,Y202,廖志輝,通識中心,50,32,18,中文,
+人文,文化,0365,文化人類學導論 Introduction to Cultural Anthropology,2,278,,Y202,廖志輝,通識中心,0,0,0,中文,
+人文,文化,0366,西方眼中的中國 China in Western Minds,2,278,,Y204,劉瑞寬,通識中心,0,0,0,中文,
+人文,文化,0367,中國傳統思想經典選讀 Reading of Classical Chinese Traditional Thought,2,434,,Y206,蕭振聲,通識中心,50,49,1,中文,
+人文,文化,0368,中國傳統思想經典選讀 Reading of Classical Chinese Traditional Thought,2,212,,Y313,張盈馨,通識中心,50,60,0,中文,
+人文,文化,0369,日本漫畫文化論 Japanese Manga Culture Inquiry,2,256,,Y104,陳仲偉,通識中心,120,118,2,中文,本課程不開放特殊情形權限加選
+人文,文化,0370,日本漫畫文化論 Japanese Manga Culture Inquiry,2,278,,Y104,陳仲偉,通識中心,120,66,54,中文,本課程不開放特殊情形權限加選
+人文,文化,0373,江戶文化 Edo Culture,2,334,,Y301,蕭涵珍,通識中心,40,43,0,中文,
+人文,文化,0374,印度不思議 The Incredible India,2,256,,Y305,游博清,通識中心,50,52,0,中文,
+人文,文化,0375,策展大小事 Curation,2,434,,Y304,游逸飛,通識中心,50,14,36,中文,
+人文,文化,0376,太極拳基礎 Basic Tai Chi,2,478,,Y411,林彥佑,通識中心,32,31,1,中文,1.上課請穿球鞋及寬鬆衣服; 2.部分課程須兩人一組對練
+人文,文化,0377,多元文化在臺灣 Multicultural in Taiwan,2,334,,Y203,陳建源,通識中心,40,38,2,中文,
+人文,文化,0378,多元文化在臺灣 Multicultural in Taiwan,2,278,,Y208,黃純怡,通識中心,60,52,8,中文,
+人文,文化,0379,"語言、文化與溝通 Language, Culture and Communication",2,312,,U702,張文俐,通識中心,45,27,18,英文,英語授課
+人文,文化,0380,"語言、文化與溝通 Language, Culture and Communication",2,212,,LI412,張文俐,通識中心,50,33,17,英文,英語授課
+人文,文化,0101,歷史·生活與學習 Life and Learning in History,2,2AB,,Y208,宋德喜,夜不限系別,50,46,4,中文,可採計舊制歷史學群
+人文,藝術,0102,美術工作坊 Art Workshop,2,1AB,,Y605,蕭怡姍,夜不限系別,40,46,0,中文,
+人文,文化,0105,歷史·生活與學習 Life and Learning in History,2,2CD,,Y208,宋德喜,夜不限系別,50,52,0,中文,可採計舊制歷史學群
+人文,歷史,0106,歷史與人生 History and Human Life,2,3AB,,Y410,林益德,夜不限系別,50,52,0,中文,
+人文,文化,0107,日本文化 Japanese Culture,2,4AB,,Y401,賴郁君,夜不限系別,50,49,1,中文,
+人文,藝術,0165,視覺藝術欣賞 Visual Art Appreciation,2,1AB,,Y112,王婉如,夜不限系別,0,0,0,中文,
+人文,文化,0181,多元文化在臺灣 Multicultural in Taiwan,2,1AB,,Y104,吳政憲,夜不限系別,120,119,1,中文,

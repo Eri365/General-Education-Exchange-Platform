@@ -1,0 +1,51 @@
+領域,學群,選課號碼(註1),科目名稱,學分,上課 時間,上課 週別,上課 教室,授課 教師,開課 單位,開課 人數,選課 人數,可選 餘額,授課 語言,備註
+自然,生命科學,0501,生命科學與人生 Life Science and Human Life,2,178,,Y112,何瓊紋等,通識中心,100,105,0,中文,新開設遠距教學
+自然,生命科學,0502,生命科學與人生 Life Science and Human Life,2,456,,Z000,簡麗鳳等,通識中心,100,107,0,中文,本課程不開放特殊情形權限加選，新開設遠距教學
+自然,生命科學,0503,生命的動力與延續 The Vitality and Sustainability of Life,2,134,,Y112,賴建成等,通識中心,120,118,2,中文,本課程不開放特殊情形權限加選，新開設遠距教學
+自然,生命科學,0504,生命的動力與延續 The Vitality and Sustainability of Life,2,534,,Z000,賴建成等,通識中心,120,132,0,中文,本課程不開放特殊情形權限加選，新開設遠距教學
+自然,生命科學,0505,良醫講堂：臨床醫療與衛教 Good Doctors: Clinical Medicine and Health Education,2,478,,Y112,許美鈴等,通識中心,100,99,1,中文,
+自然,生命科學,0506,食品安全衛生 Food Safety and Sanitation,2,134,,FB110,陳錦樹等,通識中心,100,96,4,中文,新開設遠距教學
+自然,生命科學,0507,微生物世界 Microbial World,2,456,,J1007,鍾文鑫等,通識中心,100,106,0,中文,新開設遠距教學
+自然,生命科學,0508,生命科學與生物資訊趣談 Interesting Introduction to Life Science and Bioinformatics,2,334,,Y307,陳盈璁等,通識中心,40,38,2,中文,
+自然,生命科學,0509,園藝與生活 Horticulture and Living,2,189,,H300,林慧玲等,通識中心,70,68,2,中文,
+自然,生命科學,0510,臺灣重要之病毒性傳染病 Important Viral Infectious Diseases in Taiwan,2,434,,Y104,邱賢松,通識中心,100,115,0,中文,新開設遠距教學
+自然,生命科學,0512,植物生態與多樣性 Plant Ecology and Biodiversity,2,456,,IA531,趙國容,通識中心,50,36,14,英文,英語授課
+自然,環境科學,0516,地學通論 Introduction to Physical Geography,3,1789,,J104,彭宗仁,通識中心,31,42,0,中文,建議非森林系、土環系學生選修
+自然,環境科學,0517,校園自然環境導覽 Guided Tour on Campus Environment,2,278,,Z109,劉思謙,通識中心,20,24,0,中文,
+自然,環境科學,0518,生態學 Ecology,2,534,,EC7D09,段淑人,通識中心,80,69,11,中文,
+自然,環境科學,0519,生態學 Ecology,2,189,,Y212,于迺文,通識中心,65,70,0,中文,新開設遠距教學
+自然,環境科學,0520,永續能源發展 Sustainable Energy and Development,2,234,,ATB29,裴靜偉,通識中心,90,95,0,中文,
+自然,環境科學,0521,氣候變遷影響及其因應策略 The Effects of Climate Change and the Analysis of Possible Adaptation Strategies,2,434,,Y203,蘇義淵,通識中心,70,51,19,英文,英語授課
+自然,環境科學,0522,環境與能源 Environment and Energy,3,4678,,P103,盧昭暉,通識中心,50,27,23,中文,
+自然,環境科學,0523,環境生態變遷與永續發展 Change and Sustainable Development in Environment and Ecology,2,478,,Y212,王鴻勳,通識中心,50,39,11,中文,
+自然,環境科學,0524,防災概論 Introduction to Disaster Mitigation,2,578,,Y301,王鴻勳,通識中心,50,41,9,中文,
+自然,環境科學,0525,世界糧食問題 World Food Problems,2,534,,IA531,高木知芙美,通識中心,50,32,18,英文,英語授課
+自然,環境科學,0526,生活、工作與安全 Safety of Life and Work,2,134,,Y402,王鴻勳,通識中心,50,48,2,中文,
+自然,物質科學,0530,生物化學與人生 Biochemistry and Life,2,334,,Y302,林家立,通識中心,70,70,0,中文,
+自然,物質科學,0531,實用生活化學 Practical Aspects of Chemistry,2,178,,Y308,洪豐裕,通識中心,70,67,3,中文,修過普通化學的同學建議勿修習此課程，新開設遠距教學
+自然,物質科學,0532,實用生活化學 Practical Aspects of Chemistry,2,234,,Y104,羅順原,通識中心,120,117,3,中文,新開設遠距教學
+自然,物質科學,0533,現代生活中的科技與物理 Technologies and Physics in Modern Life,2,178,,S104,何孟書等,通識中心,70,70,0,中文,
+自然,物質科學,0534,自然的形狀 Patterns in Nature,2,378,,S104,廖思善,通識中心,70,77,0,中文,
+自然,數學統計,0537,統計與生活 Statistics and Life,2,156,,Y302,林宗儀,通識中心,50,49,1,中文,
+自然,數學統計,0538,數學世界的奧秘 The Mystery of Mathematics,2,278,,Y203,蔡亞倫,通識中心,50,47,3,英文,英語授課
+自然,數學統計,0539,力學與數學的歷史發展 The Historical Evolution of Mechanics and Mathematics,2,334,,Y204,李林滄,通識中心,70,67,3,中文,新開設遠距教學
+自然,數學統計,0540,大數據的設計思考 Jump Start Your First Big Data Project with Tableau,2,*,,*,李超雄,通識中心,30,23,7,中文,線上課程，開課細節另行通知
+自然,工程科技,0543,生命科學與工程概論 Introduction of Bioengineering in Life Science,2,556,,ATB29,薛敬和等,通識中心,150,137,13,中文,課程教室共有2間，ATB29及ATB13，新開設遠距教學
+自然,工程科技,0544,綠色能源材料導論 Introduction to Green-Energy Materials,3,5678,,ME202,廖文毅,通識中心,60,47,13,中文,
+自然,工程科技,0545,多媒體應用 Multimedia Applications,3,1678,,LI412,巫亮全,通識中心,35,33,2,中文,建議非管院學生選修
+自然,工程科技,0546,行動載具程式設計 Mobile Device Programming,2,334,,L216,林建良,通識中心,50,41,9,中文,
+自然,工程科技,0547,行動載具程式設計 Mobile Device Programming,2,534,,L216,林建良,通識中心,50,42,8,中文,
+自然,工程科技,0548,精密工程科學概論 Overview Science of Precision Engineering,2,323,,Y301,蔡政穆等,通識中心,40,30,10,中文,
+自然,工程科技,0549,生醫工程概論 Introduction to Biomedical Engineering,3,1567,,Y304,廖國智,通識中心,60,58,2,中文,
+自然,工程科技,0550,大自然啟發的仿生設計 Bioinspiration and Biomimicry,3,1567,,Y303,程華強,通識中心,60,18,42,英文,英語授課
+自然,工程科技,0551,中國古代科學 Chinese Ancient Science,2,512,,Y104,吳政憲,通識中心,120,122,0,中文,新開設遠距教學
+自然,工程科技,0552,中國古代科學 Chinese Ancient Science,2,534,,Y104,吳政憲,通識中心,120,119,1,中文,新開設遠距教學
+自然,工程科技,0553,自由軟體與資訊安全 Free Software and Information Security,2,534,,SC549,謝育龍,通識中心,50,32,18,中文,
+自然,工程科技,0554,成為Python數據分析達人 First Steps to Become a Data Analyst with Python,2,*,,*,李超雄,通識中心,30,18,12,中文,線上課程，開課細節另行通知
+自然,環境科學,0153,環境生態變遷與永續發展 Change and Sustainable Development in Environment and Ecology,2,5CD,,Y309,王鴻勳,夜不限系別,50,28,22,中文,
+自然,工程科技,0159,中國古代科學 Chinese Ancient Science,2,2AB,,Y104,吳政憲,夜不限系別,90,106,0,中文,新開設遠距教學
+自然,工程科技,0160,中國古代科學 Chinese Ancient Science,2,2CD,,Y104,吳政憲,夜不限系別,90,108,0,中文,新開設遠距教學
+自然,生命科學,0162,常見疾病預防與保健 Common Disease and Health Promotion in Taiwan,2,2AB,,Y112,闕斌如等,夜不限系別,120,136,0,中文,莊秀美老師，謝政哲老師，許美鈴老師合授，新開設遠距教學
+自然,環境科學,0174,生態學 Ecology,2,1CD,,Y301,于迺文,夜不限系別,65,61,4,中文,
+自然,工程科技,0181,中國古代科學 Chinese Ancient Science,2,4CD,,Y206,吳政憲,夜不限系別,70,70,0,中文,新開設遠距教學
+自然,工程科技,0613,資訊素養：程式設計與應用 Information Literacy: Computer Programming and Its Applications,1,3AB,,LI412,林建良,夜不限系別,50,29,21,中文,上課時間：01-09週(學士班修習屬通識資訊素養領域，進修部修習屬自然科學領域工程科技學群)

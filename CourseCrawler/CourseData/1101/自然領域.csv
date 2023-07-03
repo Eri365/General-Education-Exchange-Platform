@@ -1,0 +1,64 @@
+領域,學群,選課號碼(註1),科目名稱,學分,上課 時間,上課 週別,上課 教室,授課 教師,開課 單位,開課 人數,選課 人數,可選 餘額,授課 語言,備註
+自然,生命科學,0501,健康與人生 Health and Life,2,178,,Y309,黃秀琳,通識中心,35,33,2,中文,本課程不開放特殊情形權限加選
+自然,生命科學,0502,昆蟲世界 Insect World,2,134,,EC7D09,段淑人,通識中心,40,37,3,中文,
+自然,生命科學,0503,漫談預防醫學 A Brief Introduction to Preventive Medicine,2,234,,*,趙黛瑜等,通識中心,70,0,70,英文,英語授課
+自然,生命科學,0504,微生物世界 Microbial World,2,456,,R10B05,鍾文鑫等,通識中心,100,97,3,中文,該課程因應疫情，為落實防疫措施而採線上教學方式授課
+自然,生命科學,0505,動物生物科技與生活 Animal Biotechnology and Life,2,234,,Y104,辛坤鎰等,通識中心,120,76,44,中文,該課程因應疫情，為落實防疫措施而採線上教學方式授課
+自然,生命科學,0506,植物生態與多樣性 Plant Ecology and Biodiversity,2,534,,IA640,趙國容,通識中心,50,15,35,英文,英語授課
+自然,生命科學,0507,樹木身體語言與照護 Tree Body Language and Care,2,323,,H101,劉東啟等,通識中心,41,35,6,中文,
+自然,生命科學,0508,良醫講堂：臨床醫療與衛教 Good Doctors: Clinical Medicine and Health Education,2,278,,Y112,許美鈴等,通識中心,89,89,0,中文,該課程因應疫情，為落實防疫措施而採線上教學方式授課
+自然,生命科學,0509,良醫講堂：臨床醫療與衛教 Good Doctors: Clinical Medicine and Health Education,2,478,,Y112,許美鈴等,通識中心,79,79,0,中文,該課程因應疫情，為落實防疫措施而採線上教學方式授課
+自然,生命科學,0510,印度傳統保健法 Indian Traditional Knowledge of Health and Healing,2,478,,Y403,古山吉(Kumar),通識中心,50,16,34,英文,英語授課
+自然,生命科學,0511,草藥入門 An Introduction to Herbal Therapy,2,378,,Y403,古山吉(Kumar),通識中心,50,45,5,英文,英語授課
+自然,生命科學,0512,常見疾病預防與保健 Common Disease and Health Promotion in Taiwan,2,534,,Y409,古山吉(Kumar),通識中心,50,29,21,英文,英語授課
+自然,生命科學,0513,生命科學與人生 Life Science and Human Life,2,434,,Y104,何瓊紋等,通識中心,100,96,4,中文,該課程因應疫情，為落實防疫措施而採線上教學方式授課
+自然,生命科學,0514,生命科學與人生 Life Science and Human Life,2,456,,Y104,劉英明等,通識中心,100,101,0,中文,該課程因應疫情，為落實防疫措施而採線上教學方式授課; 本課程不開放特殊情形權限加選
+自然,生命科學,0515,營養與保健 Nutrition and Health Care,2,334,,Y409,古山吉(Kumar),通識中心,50,26,24,英文,英語授課
+自然,生命科學,0516,生命的動力與延續 The Vitality and Sustainability of Life,2,134,,SC111,劉宏仁等,通識中心,150,148,2,中文,該課程因應疫情，為落實防疫措施而採線上教學方式授課; 本課程不開放特殊情形權限加選
+自然,生命科學,0517,生命的動力與延續 The Vitality and Sustainability of Life,2,534,,SC111,劉宏仁等,通識中心,150,146,4,中文,該課程因應疫情，為落實防疫措施而採線上教學方式授課; 本課程不開放特殊情形權限加選
+自然,生命科學,0518,生物醫學新知與應用 New Technologies and Applications of Biomedical Sciences,2,256,,Y402,王惠民,通識中心,60,40,20,中文,
+自然,生命科學,0519,臺灣重要之病毒性傳染病 Important Viral Infectious Diseases in Taiwan,2,434,,Y112,邱賢松,通識中心,100,104,0,中文,該課程因應疫情，為落實防疫措施而採線上教學方式授課
+自然,生命科學,0520,健康與人生 Health and Life,2,256,,Y309,連漢仲等,通識中心,50,46,4,中文,本課程不開放特殊情形權限加選
+自然,生命科學,0521,漫談預防醫學 A Brief Introduction to Preventive Medicine,2,256,,Y409,廖淑芬等,通識中心,50,48,2,中文,本課程不開放特殊情形權限加選
+自然,生命科學,0522,漫談預防醫學 A Brief Introduction to Preventive Medicine,2,278,,Y410,鄭清源等,通識中心,50,49,1,中文,本課程不開放特殊情形權限加選
+自然,環境科學,0523,生活、工作與安全 Safety of Life and Work,2,134,,Y207,王鴻勳,通識中心,50,23,27,中文,
+自然,環境科學,0524,環境與能源 Environment and Energy,3,5678,,P130,盧昭暉,通識中心,50,39,11,中文,
+自然,環境科學,0525,氣候變遷影響及其因應策略 The Effects of Climate Change and the Analysis of Possible Adaptation Strategies,2,434,,Y202,蘇義淵,通識中心,72,21,51,英文/EMI,英語授課
+自然,環境科學,0526,生態學 Ecology,2,156,,Y401,于迺文,通識中心,75,73,2,中文,
+自然,環境科學,0527,生態學 Ecology,2,189,,Y401,于迺文,通識中心,75,63,12,中文,
+自然,環境科學,0528,防災概論 Introduction to Disaster Mitigation,2,478,,Y203,王鴻勳,通識中心,50,42,8,中文,
+自然,環境科學,0530,地學通論 Introduction to Physical Geography,3,1789,,J104,彭宗仁,通識中心,31,33,0,中文,建議非森林系、土環系學生選修
+自然,物質科學,0534,"化學、醫藥與社會 Chemistry, Medicine and Society",2,234,,Y301,賴千蕙,通識中心,60,59,1,中文,
+自然,物質科學,0535,生物化學與人生 Biochemistry and Life,2,234,,T408A,莊敦堯,通識中心,60,57,3,中文,限修人數60人
+自然,物質科學,0536,物理世界的奧秘 The Mystery of Physics,2,334,,S104,張志軍,通識中心,50,48,2,中文,建議非理工學院學生選修
+自然,物質科學,0537,實用生活化學 Practical Aspects of Chemistry,2,156,,SC111,羅順原,通識中心,150,147,3,中文,該課程因應疫情，為落實防疫措施而採線上教學方式授課
+自然,數學統計,0541,數學世界的奧秘 The Mystery of Mathematics,2,278,,Y203,蔡亞倫,通識中心,50,44,6,英文/EMI,英語授課
+自然,數學統計,0542,統計與生活 Statistics and Life,2,256,,Y403,黃文瀚,通識中心,50,47,3,中文,
+自然,工程科技,0546,化工科技 Chemical Engineering Technology,2,156,,CE204,李思禹,通識中心,32,37,0,中文,示範實驗
+自然,工程科技,0547,生物產業工程 Bioindustry Engineering,2,256,,Y401,林浩庭,通識中心,50,29,21,中文,
+自然,工程科技,0548,生活中的工程 Engineering in Everyday Life,2,134,,L216,王東安,通識中心,50,22,28,英文/EMI,英語授課
+自然,工程科技,0549,奈米科技 Introduction of Nanotech,2,234,,ATB29,韓政良,通識中心,80,78,2,中文,本課程不開放特殊情形權限加選
+自然,工程科技,0550,生醫工程概論 Introduction to Biomedical Engineering,3,2567,,*,程華強,通識中心,60,0,60,英文,英語授課
+自然,工程科技,0551,生醫工程概論 Introduction to Biomedical Engineering,3,3234,,ATB13,程德勝等,通識中心,100,67,33,中文,
+自然,工程科技,0552,自由軟體與資訊安全 Free Software and Information Security,2,234,,S821,謝育龍,通識中心,50,33,17,中文,
+自然,工程科技,0553,生醫工程概論 Introduction to Biomedical Engineering,3,1567,,ATB29,廖國智,通識中心,60,42,18,中文,
+自然,生命科學,0554,良醫講堂：臨床醫療與衛教 Good Doctors: Clinical Medicine and Health Education,2,289,,Y309,邱南英等,通識中心,50,50,0,中文,本課程不開放特殊情形權限加選
+自然,生命科學,0555,良醫講堂：臨床醫療與衛教 Good Doctors: Clinical Medicine and Health Education,2,378,,Y410,陳清埤等,通識中心,50,50,0,中文,本課程不開放特殊情形權限加選
+自然,生命科學,0556,良醫講堂：臨床醫療與衛教 Good Doctors: Clinical Medicine and Health Education,2,467,,Y410,吳明儒等,通識中心,50,48,2,中文,本課程不開放特殊情形權限加選
+自然,生命科學,0557,良醫講堂：臨床醫療與衛教 Good Doctors: Clinical Medicine and Health Education,2,167,,Y410,曾信順等,通識中心,50,48,2,中文,本課程不開放特殊情形權限加選
+自然,生命科學,0558,良醫講堂：臨床醫療與衛教 Good Doctors: Clinical Medicine and Health Education,2,189,,Y410,葉良財等,通識中心,50,48,2,中文,本課程不開放特殊情形權限加選
+自然,生命科學,0559,良醫講堂：臨床醫療與衛教 Good Doctors: Clinical Medicine and Health Education,2,567,,Y410,李孟倫等,通識中心,50,49,1,中文,本課程不開放特殊情形權限加選
+自然,生命科學,0560,良醫講堂：臨床醫療與衛教 Good Doctors: Clinical Medicine and Health Education,2,589,,Y402,謝承樸等,通識中心,50,46,4,中文,本課程不開放特殊情形權限加選
+自然,生命科學,0561,良醫講堂：臨床醫療與衛教 Good Doctors: Clinical Medicine and Health Education,2,478,,Y309,黃金隆等,通識中心,50,48,2,中文,本課程不開放特殊情形權限加選，新開設遠距課程，同步遠距教學
+自然,生命科學,0562,"仁醫講學：疾病預防、臨床檢驗與治療 Attending Physician: Disease Prevention, Clinical Screening and Therapy",2,289,,Y403,傅令嫻等,通識中心,50,41,9,中文,本課程不開放特殊情形權限加選，新開設遠距課程，同步遠距教學
+自然,生命科學,0563,"仁醫講學：疾病預防、臨床檢驗與治療 Attending Physician: Disease Prevention, Clinical Screening and Therapy",2,178,,Y409,黃偉彰,通識中心,50,19,31,中文,本課程不開放特殊情形權限加選
+自然,生命科學,0564,常見疾病預防與保健 Common Disease and Health Promotion in Taiwan,2,234,,Y401,沈靜慧等,通識中心,50,49,1,中文,本課程不開放特殊情形權限加選
+自然,生命科學,0565,常見疾病預防與保健 Common Disease and Health Promotion in Taiwan,2,134,,Y401,高定憲等,通識中心,50,49,1,中文,本課程不開放特殊情形權限加選
+自然,生命科學,0566,常見疾病預防與保健 Common Disease and Health Promotion in Taiwan,2,112,,Y401,崔源生等,通識中心,50,49,1,中文,本課程不開放特殊情形權限加選
+自然,生命科學,0567,生命科學與生物資訊趣談 Interesting Introduction to Life Science and Bioinformatics,2,378,,Y409,陳昆輝等,通識中心,50,47,3,中文,本課程不開放特殊情形權限加選
+自然,生命科學,0568,營養與保健 Nutrition and Health Care,2,478,,Y409,李秀芬等,通識中心,50,49,1,中文,本課程不開放特殊情形權限加選
+自然,生命科學,0569,生物醫學新知與應用 New Technologies and Applications of Biomedical Sciences,2,278,,Y409,謝明儒等,通識中心,50,47,3,中文,本課程不開放特殊情形權限加選
+自然,生命科學,0103,生物醫學新知與應用 New Technologies and Applications of Biomedical Sciences,2,2AB,,Y112,闕斌如等,夜不限系別,120,88,32,中文,
+自然,生命科學,0107,八大藝術中的生物醫學 Biomedical Sciences in Arts,2,3AB,,Y112,闕斌如等,夜不限系別,120,50,70,中文,
+自然,生命科學,0109,生物電影 Bio-Movie,2,4AB,,Y305,王秉彥等,夜不限系別,50,29,21,中文,本課程不開放特殊情形權限加選
+自然,生命科學,0110,漫談預防醫學 A Brief Introduction to Preventive Medicine,2,5AB,,Y305,陳建華,夜不限系別,50,50,0,中文,本課程不開放特殊情形權限加選，新開設遠距課程，同步遠距教學

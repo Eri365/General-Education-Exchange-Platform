@@ -2,7 +2,7 @@
 # 目前所選的學年期範圍是 105 學期到 111 學期
 # 理論上可以爬更舊的課表，但目前只打算先截止到 105 學期的
 # 爬到的資料皆會放置在 CourseData 這個資料夾，並且依據學年期在把資料做切分
-# 爬蟲時所用到的 url 和 xpath 基本都寫入在 path.json 檔裡面 
+# 爬蟲時所用到的 url 和 xpath 都寫入在 path.json 檔裡面 
 # course.py 目前不會用到，原先是想把課程的資料用類別包起來，但後來發現沒有必要
 # 基於最新學期的課表格式會與舊的課表有些需差異，目前只能爬舊的課表，針對最新的目前還沒完成
 
@@ -36,7 +36,7 @@ class Crawler:
         self.options = Options()
         self.options.add_argument("--headless") # 關掉預覽模式
         self.driver = webdriver.Chrome(options = self.options)
-        self.driver.implicitly_wait(10) # 設置隱性等待時間
+        self.driver.implicitly_wait(5) # 設置隱性等待時間
         self.driver.get(path['url'])
         atexit.register(self.exit_handler) # 註冊結束處理程式
     
@@ -60,7 +60,7 @@ class Crawler:
         return self.driver.find_element('xpath', path['table_xpath'])
     
     @staticmethod
-    def pack_table_list(table: WebElement):
+    def pack_table_to_2Dlist(table: WebElement):
         header = []
         for thead in table.find_elements('tag name', 'thead'):
             for row in thead.find_elements('tag name', 'tr'):
@@ -94,6 +94,6 @@ if __name__ == '__main__':
     for year_value in years:
         for subject_value, _ in subjects.items():
             table = crawler.query(year_value, subject_value)
-            header, body = crawler.pack_table_list(table)
+            header, body = crawler.pack_table_to_2Dlist(table)
             crawler.write_to_csv(header, body, year_value, subject_value)
     print('-' * 10, '程式結束', '-' * 10)
